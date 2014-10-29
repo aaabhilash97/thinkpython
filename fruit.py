@@ -1,0 +1,3 @@
+fruit='bannana'
+print fruit[:]
+
