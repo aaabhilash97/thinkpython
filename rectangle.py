@@ -1,0 +1,2 @@
+clss rectangle(object):
+	
